@@ -15,3 +15,21 @@ header{
 a:hover{
     color: black !important;
 }
+
+#articleTigre3{
+    position: relative;
+}
+
+#tigre3{
+    position:absolute;
+    left: 20px;
+}
+
+#teteTigre{
+    position: relative;
+}
+
+#teteTigre article{
+    position: absolute;
+    bottom: 0;
+}
