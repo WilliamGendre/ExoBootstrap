@@ -33,3 +33,7 @@ a:hover{
     position: absolute;
     bottom: 0;
 }
+
+#teteTigre article p a:hover{
+    color: blue !important;
+}
